@@ -1,0 +1,2 @@
+# dymnft
+testnet dymension
